@@ -15,7 +15,7 @@ Clasica calculadora. Hecha con Java en Netbeans.
 Link al video del proyecto
 ----------------------------
 
-https://youtu.be/v5qKLGymwh4?si=EjqEa9XwpDndyYnD
+https://youtube.com/shorts/ul-Ritzo0wk?si=iEzw-8FbNZPRzgMm
 
 
 Imagenes
